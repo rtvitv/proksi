@@ -1,3 +1,8 @@
-<?php
-    echo "<h1>{$say}</h1>";
-    $test = 'TEst connect';
+<html>
+ <head>
+  <title>Тестируем PHP</title>
+ </head>
+ <body>
+ <?php echo '<p>Привет, мир!</p>'; ?>
+ </body>
+</html
